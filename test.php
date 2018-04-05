@@ -1,5 +1,5 @@
 <?php
-
+echo "EIEIEIEIEIEIEI";
 function gcd ($a, $h)
 {
     $temp;
