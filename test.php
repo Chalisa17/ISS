@@ -1,5 +1,5 @@
 <?php
-
+echo "แย่มาก";
 function gcd ($a, $h)
 {
     $temp;
