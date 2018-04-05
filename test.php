@@ -1,5 +1,4 @@
 <?php
-ehco "กินข้าวยัง";
 function gcd ($a, $h)
 {
     $temp;
@@ -80,7 +79,4 @@ function randomNumber ($number){
     $m = pow($c, $k);
     $m = fmod($m, $n);
     echo("\nOriginal Message Sent = ".$m);
-
-
-
 ?>
