@@ -47,7 +47,7 @@ std_profile2("5906021620057","Nuttaphop","Sec_D");
         $sec=$_POST["secc"]
         .'</body><html>';
       }
-
+      echo  " eiei za "
       echo '<br><br>';
       show($id,$name,$sec);
     ?>
