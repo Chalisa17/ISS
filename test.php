@@ -1,5 +1,5 @@
 <?php
-
+ehco "กินข้าวยัง";
 function gcd ($a, $h)
 {
     $temp;
